@@ -1,0 +1,7 @@
+To run this script you need to have the below libraries installed:
+
+Lorem:
+pip install lorem
+
+nltk:
+pip install nltk
